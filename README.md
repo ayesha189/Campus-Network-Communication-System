@@ -1,36 +1,9 @@
 # Campus Network Communication System
 
-A client-server application that simulates inter-campus communication for a multi-campus university network using TCP and UDP protocols.
-
-## 👥 Team Members
-
-- **23F-0734**
-- **23F-0839**
-- **23F-0807**
-
-**Section:** BSCS 5B
-
----
-
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Network Topology](#network-topology)
-- [Protocol Details](#protocol-details)
-- [Campus Authentication](#campus-authentication)
-- [Contributing](#contributing)
-
----
 
 ## 🎯 Project Overview
 
-This project implements a distributed messaging system that connects multiple university campuses through a central server. The system enables authenticated campus-to-campus communication, real-time status monitoring, and broadcast announcements using both TCP and UDP protocols.
+A client-server application that simulates inter-campus communication for a multi-campus university network using TCP and UDP protocols.This project implements a distributed messaging system that connects multiple university campuses through a central server. The system enables authenticated campus-to-campus communication, real-time status monitoring, and broadcast announcements using both TCP and UDP protocols.
 
 ### Supported Campuses
 
@@ -343,15 +316,16 @@ This project is part of a Computer Networks Lab assignment and is intended for e
 
 ---
 
-## 📧 Contact
 
-For questions or collaboration:
+## 👥 Team Members
 
-- **Course**: Computer Networks Lab
-- **Section**: BSCS 5B
-- **Semester**: Fall 2023
+- **23F-0734**
+- **23F-0839**
+- **23F-0807**
+
 
 ---
+
 
 ## 🙏 Acknowledgments
 
