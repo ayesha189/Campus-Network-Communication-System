@@ -58,7 +58,7 @@ The system uses a **client-server architecture** with the following components:
 
 ```
 ┌─────────────┐     TCP/UDP      ┌──────────────┐     TCP/UDP      ┌─────────────┐
-│   Campus    │ ◄─────────────► │    Central   │ ◄─────────────► │   Campus    │
+│   Campus    │ ◄─────────────►  │    Central   │ ◄─────────────►  │   Campus    │
 │   Client    │                  │    Server    │                  │   Client    │
 │  (Lahore)   │                  │              │                  │  (Karachi)  │
 └─────────────┘                  └──────────────┘                  └─────────────┘
